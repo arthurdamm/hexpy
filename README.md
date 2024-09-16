@@ -1,1 +1,1 @@
-# Pyplot Sandbox of hex grid exploration in Python
+# Pyplot Sandbox for hex grid exploration in Python
